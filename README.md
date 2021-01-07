@@ -3,6 +3,10 @@
 <!--
 **ShudhanshuSingh/ShudhanshuSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## Who am I?
+I am Shudhanshu Singh, and I like to practice frontend designs a lot.
+I am currently learning DSA and ReactJs.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Shudhanshu's github stats](https://github-readme-stats.vercel.app/api?username=ShudhanshuSingh)](https://github.com/anuraghazra/github-readme-stats)
+
