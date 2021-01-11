@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Shudhanshu's github stats](https://github-readme-stats.vercel.app/api?username=ShudhanshuSingh)](https://github.com/anuraghazra/github-readme-stats)
+[![Shudhanshu's github stats](https://github-readme-stats.vercel.app/api?username=ShudhanshuSingh)]("https://github.com")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShudhanshuSingh)](https://github.com)
 
 
