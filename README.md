@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#
+[![Shudhanshu's github stats](https://github-readme-stats.vercel.app/api?username=ShudhanshuSingh)](https://github.com)
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShudhanshuSingh&layout=compact)](https://github.com/)
 
-[![Shudhanshu's github stats](https://github-readme-stats.vercel.app/api?username=ShudhanshuSingh)]("https://github.com")
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShudhanshuSingh)](https://github.com)
 
 
